@@ -10,3 +10,11 @@
 
 #### Firebase realtime database
 <img src="https://github.com/Shakthi-Dhar/Accident_Detect_ESP8266_MPU6050/blob/main/realtime_data.png" width="390.5" height="273" />
+
+#### Check out the machine learning model used: [FaceBloodIdentifier](https://github.com/Shakthi-Dhar/FaceBloodIdentifier)
+
+#### Test the API on postman with POST request, API url: [https://faceblood-detection-api.herokuapp.com/](https://faceblood-detection-api.herokuapp.com/)
+
+#### Check out the github repository of the API: [Flask API to detect face blood](https://github.com/Shakthi-Dhar/FlaskAPI-FaceBloodIdentifier)
+
+#### Check out the IoT device tools & code : [Accident Detection with ESP8266](https://github.com/Shakthi-Dhar/Accident_Detect_ESP8266_MPU6050)
